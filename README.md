@@ -1,4 +1,4 @@
-# Marvel/Printi Project
+# Marvel/React Project
 
 This Projects uses Marvel Api's.
 
